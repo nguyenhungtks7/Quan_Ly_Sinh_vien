@@ -10,7 +10,7 @@ namespace QLSinhViennhom5
     {
 
         //private string sql = System.Configuration.ConfigurationManager.ConnectionStrings["MyDB"].ConnectionString;
-        private string sql = "data source=desktop-91frmsh\\nguyenphihung;initial catalog=qlsinhvien;integrated security=true";
+        private string sql = "Data Source=DESKTOP-CQPPRKT;Initial Catalog=QlSinhVien;Integrated Security=True";
         public Database()
         {
           
